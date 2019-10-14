@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://othahwohb.relephant.ai/sitemap.xml
